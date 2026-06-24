@@ -1,7 +1,5 @@
 # Welcome to Code for Boston
 
-## 
-
 Code for Boston is a volunteer community that brings together technologists, designers, researchers, public servants, students, and community members to work on projects that benefit the public.
 
 ## New Member Checklist
