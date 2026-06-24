@@ -11,6 +11,14 @@ Code for Boston is a volunteer community that brings together technologists, des
 - [ ] [Explore our projects](https://codeforboston.org/projects/)
 - [ ] Attend New Member Orientation, held every First and Third Tuesday of the month
 
+## Orientation Materials
+
+- What We Do
+- How We Work
+- Project Roles
+- Member Expectations
+- FAQ
+
 ## Quick Links
 
 - Website: https://www.codeforboston.org
@@ -20,5 +28,7 @@ Code for Boston is a volunteer community that brings together technologists, des
 ## Is this the right place for me?
 
 You don't need to be a software engineer to contribute. Successful projects need product managers, designers, researchers, writers, subject-matter experts, community organizers, and testers alongside developers. 
+
+All Code for Boston events and spaces (online and in-person) are governed by our [Code of Conduct](https://codeforboston.org/code-of-conduct/). For questions or concerns, reach out to the Core Team at hello@codeforboston.org.
 
 Code for Boston is a project of [Civic Tech New England, Inc.](https://civictechnewengland.org/) We are not sponsored by or affiliated with Code for America.
