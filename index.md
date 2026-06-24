@@ -11,7 +11,7 @@ Code for Boston is a volunteer community that brings together technologists, des
 
 ## Orientation Materials
 
-- What We Do
+- [What We Do](/whatwedo.md)
 - How We Work
 - Project Roles
 - Member Expectations
