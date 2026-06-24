@@ -1,4 +1,4 @@
-# Projects
+## What We Do
 
 Projects are at the core of Code for Boston. Our projects vary widely, but all of them have a few things in common:
 
